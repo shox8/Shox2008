@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shoxruh
-- 👀 I’m interested in Codeing, Designing
+- 👀 I’m interested in Coding & Designing
 - 🌱 I’m currently learning Programming
 
 <!---
